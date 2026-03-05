@@ -1,0 +1,5 @@
+{
+  "name": "NoterLM",
+  "description": "A sleek note-taking application powered by Firebase for real-time synchronization and search.",
+  "requestFramePermissions": []
+}
